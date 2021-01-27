@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lOKuVGhAHw7DQYLszfgF2+BLPMMSlbVxDkmYoP9cWnASlL9/3B4WaSBnUWuCsQFaGgLLDnLLBj3/ukoksYD4KA==",
+  "dgSpecHash": "QgYoZEucMgCMS44pMUwAIi/LgegUv0q4dTHFy7sPxDRIapsx0zuxiQtLxDy/2QZ4XEeF2p4Bade8hAhlNywanQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Core\\Skany.Core.csproj",
+  "projectFilePath": "c:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Core\\Skany.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\hash\\4.0.0\\hash.4.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

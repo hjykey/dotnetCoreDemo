@@ -32,3 +32,15 @@ dotnet sln Skany.sln add Skany.Tests
 # 编译一下 Output 和 Tests 项目
 dotnet build Skany.Output
 dotnet build Skany.Tests
+
+
+# 单元测试
+
+通过命令执行单元测试
+
+1
+dotnet test Skany.Tests
+如果只想测试其中一个方法 HashPasswordTest
+
+1
+dotnet test Skany.Tests --filter HashPasswordTest

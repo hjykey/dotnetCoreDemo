@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BO+8jWT0GhGFnvUGXxszVWyWpBsDx9V5m57Jml8gRzKWd0ec4Swzq2LBn/0aE7XhqSuv+ofAeJu+DHTR3n/vbQ==",
+  "dgSpecHash": "xI9KfYN6sZslWxG2bhg/UcfLUeWY+eBGEMRGxdGA+E9OFECGGk5dyGUlHZiaZkd+o4n+CrWIRLCeA57EZohQJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Tests\\Skany.Tests.csproj",
+  "projectFilePath": "c:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Tests\\Skany.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\hash\\4.0.0\\hash.4.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Output\\Skany.Output.csproj": {}
+    "c:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Output\\Skany.Output.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Core\\Skany.Core.csproj": {
+    "c:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Core\\Skany.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Core\\Skany.Core.csproj",
+        "projectUniqueName": "c:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Core\\Skany.Core.csproj",
         "projectName": "Skany.Core",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Core\\Skany.Core.csproj",
+        "projectPath": "c:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Core\\Skany.Core.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Core\\obj\\",
+        "outputPath": "c:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Output\\Skany.Output.csproj": {
+    "c:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Output\\Skany.Output.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Output\\Skany.Output.csproj",
+        "projectUniqueName": "c:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Output\\Skany.Output.csproj",
         "projectName": "Skany.Output",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Output\\Skany.Output.csproj",
+        "projectPath": "c:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Output\\Skany.Output.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Output\\obj\\",
+        "outputPath": "c:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Output\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -82,8 +82,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Core\\Skany.Core.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Core\\Skany.Core.csproj"
+              "c:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Core\\Skany.Core.csproj": {
+                "projectPath": "c:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Core\\Skany.Core.csproj"
               }
             }
           }
