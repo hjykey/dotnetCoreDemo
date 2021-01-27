@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Core\bin\Debug\netstandard2.0\Skany.Core.deps.json
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Core\bin\Debug\netstandard2.0\Skany.Core.dll
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Core\bin\Debug\netstandard2.0\Skany.Core.pdb
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Core\obj\Debug\netstandard2.0\Skany.Core.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Core\obj\Debug\netstandard2.0\Skany.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Core\obj\Debug\netstandard2.0\Skany.Core.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Core\obj\Debug\netstandard2.0\Skany.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Core\obj\Debug\netstandard2.0\Skany.Core.dll
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Core\obj\Debug\netstandard2.0\Skany.Core.pdb

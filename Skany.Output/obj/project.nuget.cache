@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u55AEyzea1Wb6YE3O33ypQZc1zJ48g7PRsSm3kJb00k1kZZiHRWCFfY6JnXT/OwmAGRE68LIbZ3f82CgyvZ9Ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\dotnetCore_Demo\\Skany.Output\\Skany.Output.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\hash\\4.0.0\\hash.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

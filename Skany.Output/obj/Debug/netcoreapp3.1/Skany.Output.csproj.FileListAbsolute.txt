@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Output\bin\Debug\netcoreapp3.1\Skany.Output.exe
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Output\bin\Debug\netcoreapp3.1\Skany.Output.deps.json
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Output\bin\Debug\netcoreapp3.1\Skany.Output.runtimeconfig.json
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Output\bin\Debug\netcoreapp3.1\Skany.Output.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Output\bin\Debug\netcoreapp3.1\Skany.Output.dll
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Output\bin\Debug\netcoreapp3.1\Skany.Output.pdb
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Output\bin\Debug\netcoreapp3.1\Hash.dll
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Output\bin\Debug\netcoreapp3.1\Skany.Core.dll
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Output\bin\Debug\netcoreapp3.1\Skany.Core.pdb
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Output\obj\Debug\netcoreapp3.1\Skany.Output.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Output\obj\Debug\netcoreapp3.1\Skany.Output.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Output\obj\Debug\netcoreapp3.1\Skany.Output.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Output\obj\Debug\netcoreapp3.1\Skany.Output.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Output\obj\Debug\netcoreapp3.1\Skany.Output.csproj.CopyComplete
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Output\obj\Debug\netcoreapp3.1\Skany.Output.dll
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Output\obj\Debug\netcoreapp3.1\Skany.Output.pdb
+C:\Users\Administrator\Desktop\dotnetCore_Demo\Skany.Output\obj\Debug\netcoreapp3.1\Skany.Output.genruntimeconfig.cache
